@@ -1,0 +1,15 @@
+{
+  "name": "lipamini",
+  "version": "0.1.6",
+  "description": "This is a package for creating lipa miniapp boilerplates",
+  "bin": {
+    "create-lipa-miniapp": "bin/index.js"
+  },
+  "scripts": {
+  },
+  "author": "Adam Reuben",
+  "license": "ISC",
+  "dependencies": {
+    "rimraf": "^3.0.2"
+  }
+}
